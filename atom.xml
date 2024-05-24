@@ -6,7 +6,7 @@
   <link href="https://chatquora.eu.org/atom.xml" rel="self"/>
   
   <link href="https://chatquora.eu.org/"/>
-  <updated>2024-05-15T01:07:05.883Z</updated>
+  <updated>2024-05-24T07:53:16.268Z</updated>
   <id>https://chatquora.eu.org/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://chatquora.eu.org/2099/03/22/%E5%8D%9A%E5%AE%A2%E6%97%B6%E9%97%B4%E8%BD%B4/"/>
     <id>https://chatquora.eu.org/2099/03/22/%E5%8D%9A%E5%AE%A2%E6%97%B6%E9%97%B4%E8%BD%B4/</id>
     <published>2099-03-22T01:29:42.000Z</published>
-    <updated>2024-05-15T01:07:05.883Z</updated>
+    <updated>2024-05-24T07:53:16.268Z</updated>
     
-    <content type="html"><![CDATA[<div class="tag-plugin timeline"><div class="timenode" index="0"><div class="header">2024 年 05 月 15 日</div><div class="body fs14"><p>👉 给博客添加了RSS，地址：<a href="https://chatquora.eu.org/atom.xml">https://chatquora.eu.org/atom.xml</a>, 这样公司电脑上也可以看了。另外，昨天体验了GPT-4o，不得不说，翻译速度简直太快了，效率大大提升。</p></div></div><div class="timenode" index="1"><div class="header">2024 年 05 月 13 日</div><div class="body fs14"><p>😶 新的域名<a href="https://chatquora.eu.org/">https://chatquora.eu.org</a>, 在微信里居然被认定为不合法，终于明白了很多大佬为什么不用微信了，这个网页完全合法合规，可以在浏览器里随意打开，既然微信里打不开，我正琢磨着做一款安卓APP。</p></div></div><div class="timenode" index="2"><div class="header">2024 年 05 月 10 日</div><div class="body fs14"><p>🐘 纯英语的接受度不高，最近准备给文章增加中英翻译，采用“GPT4+人工校对”的方式，难免有错误，请大家阅读的时候指出来，感谢。</p></div></div><div class="timenode" index="3"><div class="header">2024 年 05 月 09 日</div><div class="body fs14"><p>🎨 手头有好几个程序要写，但今天抽空给博客设置了新域名：<a href="https://chatquora.eu.org/">https://chatquora.eu.org</a>, 欢迎访问。</p></div></div><div class="timenode" index="4"><div class="header">2024 年 03 月 29 日</div><div class="body fs14"><p>📚 用Pi-4B当服务器一年多了，日常用来抓取一些天气、新闻等信息，推送到我的微信，现在用来跑这个博客网站。</p></div></div><div class="timenode" index="5"><div class="header">2024 年 03 月 28 日</div><div class="body fs14"><p>😁 今天的博客换了个新主题，感觉还不错。</p></div></div><div class="timenode" index="6"><div class="header">2019 年 05 月 05 日</div><div class="body fs14"><p>🎈 换了新工作，一家外企，继续保持学习的热情，不能松懈。</p></div></div><div class="timenode" index="7"><div class="header">2019 年 01 月 08 日</div><div class="body fs14"><p>🎯 早就想做一个博客类的网站，分享一些Quora文章的摘录和一些电脑方面的小知识，今天开始了。</p></div></div></div>]]></content>
+    <content type="html"><![CDATA[<div class="tag-plugin timeline"><div class="timenode" index="0"><div class="header">2024 年 05 月 24 日</div><div class="body fs14"><p>😋 用docker部署了一个本地的chatgpt壳子，配合api就可以愉快地使用最新的各种大模型了（尤其是GPT-4o），开心。</p></div></div><div class="timenode" index="1"><div class="header">2024 年 05 月 15 日</div><div class="body fs14"><p>👉 给博客添加了RSS，地址：<a href="https://chatquora.eu.org/atom.xml">https://chatquora.eu.org/atom.xml</a>, 这样公司电脑上也可以看了。另外，昨天体验了GPT-4o，不得不说，翻译速度简直太快了，效率大大提升。</p></div></div><div class="timenode" index="2"><div class="header">2024 年 05 月 13 日</div><div class="body fs14"><p>😶 新的域名<a href="https://chatquora.eu.org/">https://chatquora.eu.org</a>, 在微信里居然被认定为不合法，终于明白了很多大佬为什么不用微信了，这个网页完全合法合规，可以在浏览器里随意打开，既然微信里打不开，我正琢磨着做一款安卓APP。</p></div></div><div class="timenode" index="3"><div class="header">2024 年 05 月 10 日</div><div class="body fs14"><p>🐘 纯英语的接受度不高，最近准备给文章增加中英翻译，采用“GPT4+人工校对”的方式，难免有错误，请大家阅读的时候指出来，感谢。</p></div></div><div class="timenode" index="4"><div class="header">2024 年 05 月 09 日</div><div class="body fs14"><p>🎨 手头有好几个程序要写，但今天抽空给博客设置了新域名：<a href="https://chatquora.eu.org/">https://chatquora.eu.org</a>, 欢迎访问。</p></div></div><div class="timenode" index="5"><div class="header">2024 年 03 月 29 日</div><div class="body fs14"><p>📚 用Pi-4B当服务器一年多了，日常用来抓取一些天气、新闻等信息，推送到我的微信，现在用来跑这个博客网站。</p></div></div><div class="timenode" index="6"><div class="header">2024 年 03 月 28 日</div><div class="body fs14"><p>😁 今天的博客换了个新主题，感觉还不错。</p></div></div><div class="timenode" index="7"><div class="header">2019 年 05 月 05 日</div><div class="body fs14"><p>🎈 换了新工作，一家外企，继续保持学习的热情，不能松懈。</p></div></div><div class="timenode" index="8"><div class="header">2019 年 01 月 08 日</div><div class="body fs14"><p>🎯 早就想做一个博客类的网站，分享一些Quora文章的摘录和一些电脑方面的小知识，今天开始了。</p></div></div></div>]]></content>
     
     
     <summary type="html">我、“Quora文选”公众号以及我这个博客的一些简介</summary>
